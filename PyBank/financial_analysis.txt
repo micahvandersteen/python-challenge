@@ -1,0 +1,6 @@
+---------FINANCIAL ANALYSIS------------------
+The number of months in this data set: 86
+The net profit is: 38382578.0
+The average change over each month is: -2315.12
+The greatest increase in profits was: 1926159, on Feb-2012
+The greatest decrease in profits was: -2196167, on Sep-2013
